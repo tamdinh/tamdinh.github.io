@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Tam Dinh's Home
+locale:           vi_VN
 url:
 
 
@@ -41,32 +41,32 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Đinh Thái Minh Tâm
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Try the best."
+  email: tamdinh@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: tamdinh
+  facebook: dinhthaiminhtam
   google:
-    plus: #username
+    plus: #tamdinh
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: tamdinh
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: tam-dinh-aa935135
   xing: #username
-  instagram: #username
+  instagram: dinhthaiminhtam
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: #tamdinh
   soundcloud: #username
   weibo: #username
   flickr: #username
